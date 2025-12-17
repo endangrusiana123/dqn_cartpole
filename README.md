@@ -8,7 +8,3 @@ menyelesaikan environment **CartPole-v1** menggunakan TensorFlow dan Gymnasium.
 - TensorFlow
 - Gymnasium
 - NumPy
-
-Install dependencies:
-```bash
-pip install -r requirements.txt
